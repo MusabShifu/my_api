@@ -1,0 +1,318 @@
+[
+ 
+    {
+        "phone":"Y7 2018",
+        "price":59000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 64 رام 4"
+    },
+    {
+        "phone":"Y9s",
+        "price":105000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Y9 prime 2019",
+        "price":96000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Y9 2019",
+        "price":80000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Y6 2019",
+        "price":70000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 64 رام 4"
+    },
+    {
+        "phone":"Y6s",
+        "price":71000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 64 رام 3"
+    },
+    {
+        "phone":"Y6p",
+        "price":80000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 64 رام 4"
+    },
+    {
+        "phone":"Y9s",
+        "price":105000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Y9 prime 2019",
+        "price":96000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Y9 2019",
+        "price":80000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 128 رام 6"
+    },
+    {
+        "phone":"Galaxy S23 Ultra كوبي",
+        "price":85000,
+        "imgs":[],
+        "brand":"سامسونج",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 12 الجهاز كوبي  والذاكره غير حقيقيه ولا يوجد ضمان للهاتف"
+    },
+    {
+        "phone":"Ridme 12",
+        "price":164000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 12",
+        "price":164000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"كسلا",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 12",
+        "price":165000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 12 note",
+        "price":179000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 13c ",
+        "price":160000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 13c ",
+        "price":163000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"كسلا",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 13c ",
+        "price":162000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 12 pro ",
+        "price":249000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme 12 pro ",
+        "price":250000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكره داخلية 256 رام 8"
+    },
+    {
+        "phone":"Ridme A2+",
+        "price":87000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":""
+    },
+    {
+        "phone":"Ridme A2+",
+        "price":87000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"كسلا",
+        "taw":true,
+        "mark":249118974342,
+        "description":""
+    },
+    {
+        "phone":"Ridme A2+",
+        "price":89000,
+        "imgs":[],
+        "brand":"شاومي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":""
+    },
+    {
+        "phone":"C55",
+        "price":165000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 256 رام 8"
+    },
+    {
+        "phone":"C53",
+        "price":135000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"عطبره",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 128 رام 6"
+    },
+    {
+        "phone":"C55",
+        "price":164000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"كسلا",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 256 رام 8"
+    },
+    {
+        "phone":"C53",
+        "price":136000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"كسلا",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 128 رام 6"
+    },
+    {
+        "phone":"C55",
+        "price":164000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 256 رام 8"
+    },
+    {
+        "phone":"C53",
+        "price":135000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 128 رام 6"
+    },
+    {
+        "phone":"C30s",
+        "price":89000,
+        "imgs":[],
+        "brand":"ريلمي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 64 رام 3"
+    },
+    {
+        "phone":"Y5 2018",
+        "price":57000,
+        "imgs":[],
+        "brand":"هواوي",
+        "state":"بورتسودان",
+        "taw":true,
+        "mark":249118974342,
+        "description":"ذاكرة داخلية 32 رام 2"
+    },
+    {
+
+    }
+  
+  
+]
